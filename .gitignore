@@ -1,0 +1,4 @@
+models/
+mistral_models/
+datasets/apps/apps_train.hf/
+datasets/apps/apps_train.hf/data-00000-of-00001.arrow

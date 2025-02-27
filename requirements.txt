@@ -1,0 +1,16 @@
+python == 3.12.0
+transformers
+bitsandbytes
+sentencepiece
+transformers[sentencepiece]
+accelerate
+bitsandbytes
+datasets
+peft
+trl
+py7zr # for the samsum data
+tqdm
+fire
+numpy
+threading
+protobuf==3.20.*
